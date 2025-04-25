@@ -1,5 +1,4 @@
 
-```markdown
 # Terminal Minecraft
 
 A simple 3D Minecraft-like game that runs in your terminal using ASCII characters.
@@ -36,4 +35,4 @@ This project uses raycasting techniques to create a simple 3D Minecraft-inspired
 - GCC compiler
 - Math library (-lm)
 - Terminal with ANSI color support
-```
+
